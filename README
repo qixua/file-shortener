@@ -1,0 +1,7 @@
+A simple fish-like Python path shortener. 
+
+-- usage --
+Just call the function and give the absolute path as a parameter. See the example file for usage in ./example.py
+
+-- note --
+This path shortener is only for unix and unix-like operating systems.
